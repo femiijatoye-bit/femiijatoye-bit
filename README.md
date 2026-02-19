@@ -30,3 +30,15 @@ Packet capture + analysis to identify suspicious network behavior.
 LinkedIn: linkedin.com/in/femi-ijatoye 
 
 Email: femiijatoye@gmail.com
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black)
+![Linux](https://img.shields.io/badge/Linux-Security-yellow)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-blue)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green)
+![Security+](https://img.shields.io/badge/CompTIA-Security+-red)
+![SOC](https://img.shields.io/badge/SOC-Analyst-purple)
+![SIEM](https://img.shields.io/badge/SIEM-Monitoring-darkblue)
