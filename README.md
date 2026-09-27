@@ -9,7 +9,7 @@ Skills developed through professional support work and hands-on projects:
 
 | Area | Technologies & skills |
 | --- | --- |
-| IT Support & Endpoint | Windows 11, Windows Server, macOS, remote support, troubleshooting |
+| IT Support & Endpoint | Windows 11, Windows Server, macOS, iOS, remote support, troubleshooting |
 | Microsoft & Identity | Microsoft 365, Entra ID, Intune, Active Directory, Group Policy |
 | Cloud & Networking | Azure, DNS, TCP/IP, Wireshark |
 | Automation | PowerShell, Microsoft Graph, Python |
@@ -49,7 +49,7 @@ Azure-hosted Windows Server 2022 environment with AD DS, DNS, and a domain-joine
 ## Certification & Current Development
 
 - **CompTIA Security+** — certified.
-- Continuing to develop Microsoft 365 / Intune support, PowerShell automation, and structured troubleshooting skills.
+- Continuing to develop Microsoft 365 / Intune support, Azure administration, PowerShell automation, and structured troubleshooting skills.
 
 ## Contact
 
