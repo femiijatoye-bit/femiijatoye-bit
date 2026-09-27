@@ -1,170 +1,58 @@
-# Femi Ijatoye — IT Support & Cybersecurity Portfolio
+# Femi Ijatoye
+**IT Support / Service Desk / L1–L2 Support · CompTIA Security+ Certified**
 
-## 👋 About Me
+I bring professional technical support experience from the **Apple Support program through Transcom**, complemented by hands-on Microsoft administration, endpoint, cloud, and security labs. My focus is practical troubleshooting, user support, and clear technical documentation.
 
-I'm a CompTIA Security+ certified IT support and cybersecurity professional with hands-on experience in cloud technologies, system administration, SIEM monitoring, network troubleshooting, and security investigations.
+## Core Technologies
 
-This portfolio showcases practical labs and projects designed to simulate real-world help desk, IT support, system administration, and security operations workflows.
+Skills developed through professional support work and hands-on projects:
 
-My goal is to continue building expertise in infrastructure, cloud security, and incident response while gaining experience with the technologies used in modern enterprise environments.
+| Area | Technologies & skills |
+| --- | --- |
+| IT Support & Endpoint | Windows 11, Windows Server, macOS, remote support, troubleshooting |
+| Microsoft & Identity | Microsoft 365, Entra ID, Intune, Active Directory, Group Policy |
+| Cloud & Networking | Azure, DNS, TCP/IP, Wireshark |
+| Automation | PowerShell, Microsoft Graph, Python |
+| Security & Monitoring | Microsoft Defender, Microsoft Sentinel, Splunk, KQL |
 
----
+## Featured Projects
 
-# 🔍 What You’ll Find Here
+These are hands-on lab environments, separate from my professional support experience.
 
-This repository contains hands-on labs covering:
+### [Modern Workplace L1/L2 Support Capstone](https://github.com/femiijatoye-bit/modern-workplace-l1-l2-support-capstone)
 
-- Azure cloud infrastructure
-- Microsoft Sentinel and SIEM monitoring
-- Active Directory administration
-- Security investigations and log analysis
-- Phishing email analysis
-- Network traffic analysis with Wireshark
-- Linux user and permission management
-- Help desk troubleshooting workflows
-- Python security tools
+Microsoft 365, Entra ID, Intune, and Windows 11 support across the identity and endpoint lifecycle.
 
-Each project includes documentation, investigation notes, screenshots, and technical findings.
+- User provisioning with PowerShell / Microsoft Graph, licensing, MFA, and role-based access.
+- Endpoint enrollment, application deployment, compliance policies, and Defender configuration.
+- Windows Hello sign-in troubleshooting and Print Spooler detection/remediation, with scripts and documented validation.
 
----
+### [Active Directory & Help Desk Lab](https://github.com/femiijatoye-bit/active-directory-helpdesk-lab)
 
-# 🛠 Technical Skills
+Azure-hosted Windows Server 2022 environment with AD DS, DNS, and a domain-joined member server used as the lab endpoint.
 
-### IT Support & Systems
+- Users, groups, OUs, domain joining, Group Policy, and mapped drives.
+- AGDLP-style NTFS/SMB access controls, Finance write testing, and read-only validation.
+- Help Desk password-reset/account-unlock scenarios, least-privilege session checks, and DNS failure/recovery troubleshooting.
 
-- Active Directory
-- Windows Server
-- Linux
-- Networking Fundamentals
-- User and Permission Management
-- Troubleshooting
-- Help Desk Operations
+## Supporting Projects
 
-### Cloud & Security
+| Project | Focus |
+| --- | --- |
+| [Help Desk Ticketing Lab](https://github.com/femiijatoye-bit/soc-helpdesk-ticketing-lab) | osTicket in Docker: ticket assignment, response, resolution, and admin-access recovery |
+| [Wireshark Traffic Analysis](https://github.com/femiijatoye-bit/wireshark-network-traffic-analysis-lab) | Baseline traffic capture, DNS, TLS, and TCP stream inspection |
+| [Azure Honeypot Lab](https://github.com/femiijatoye-bit/azure-honeypot-lab) | Windows security-event collection and failed RDP logon investigation with Sentinel and KQL |
+| [SIEM Incident Investigation](https://github.com/femiijatoye-bit/siem-incident-investigation-lab) | Splunk investigation of simulated Windows, PowerShell, and authentication activity |
 
-- Microsoft Azure
-- Microsoft Sentinel
-- SIEM Monitoring
-- Splunk
-- KQL
-- Security Operations
-- Incident Investigation
-- Threat Analysis
+[Additional security labs](https://github.com/femiijatoye-bit?tab=repositories) cover phishing analysis, Linux permissions, and Python security tools.
 
-### Programming & Scripting
+## Certification & Current Development
 
-- Python
-- Bash
+- **CompTIA Security+** — certified.
+- Continuing to develop Microsoft 365 / Intune support, PowerShell automation, and structured troubleshooting skills.
 
-### Certifications
+## Contact
 
-- CompTIA Security+
+Open to **IT Support, Service Desk, Help Desk, and Desktop Support** opportunities.
 
----
-
-# 📚 Current Focus
-
-I'm currently expanding my knowledge in:
-
-- Cloud security
-- Microsoft Azure
-- SIEM and log analysis
-- Active Directory administration
-- Incident response
-- Security automation
-- Help desk operations
-
----
-
-# 📂 Projects
-
-## ☁️ Azure Honeypot & Microsoft Sentinel Lab
-
-Built a Windows Server honeypot in Microsoft Azure, configured Network Security Groups, deployed Azure Monitor Agent and Data Collection Rules, and investigated failed RDP login attempts using Microsoft Sentinel and KQL.
-
----
-
-## 🪪 Active Directory Helpdesk Lab
-
-Simulated real-world IT support tasks, including:
-
-- User creation
-- Password resets
-- Account lockouts
-- Group management
-- Administrative permissions
-
----
-
-## 🎣 Phishing Email Analysis Lab
-
-Investigated suspicious emails through:
-
-- Header analysis
-- Domain reputation checks
-- Link inspection
-- Threat intelligence lookup using VirusTotal
-
----
-
-## 📡 Wireshark Network Traffic Analysis Lab
-
-Captured and analyzed network traffic to establish baseline behavior and inspect protocols.
-
----
-
-## 📊 SIEM Incident Investigation Lab
-
-Performed log ingestion, alert triage, and threat detection using SIEM monitoring techniques.
-
----
-
-## 🔐 Active Directory Security + SIEM Investigation Lab
-
-Simulated security investigations combining Active Directory activity with SIEM log analysis to identify suspicious behavior and investigate security events.
-
----
-
-## 📝 SOC Ticketing & Incident Workflow Lab
-
-Documented incidents and simulated escalation procedures following SOC operational processes.
-
----
-
-## 🐧 Linux User & Permission Management Lab
-
-Configured Linux users, groups, permissions, and access controls.
-
----
-
-## 🧪 Flask Brute-Force Defense Lab
-
-Built a Python security simulation demonstrating brute-force attack detection and defensive mechanisms.
-
----
-
-## 👨‍💻 Vulnerability Scanner
-
-Developed a Python-based web security scanner capable of identifying insecure configurations and weak endpoints.
-
----
-
-# 📫 Contact
-
-**LinkedIn:** linkedin.com/in/femi-ijatoye
-
-**Email:** femiijatoye@gmail.com
-
----
-
-# 🛠 Tech Stack
-
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-SIEM-purple)
-![KQL](https://img.shields.io/badge/KQL-Query_Language-blue)
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-black)
-![Python](https://img.shields.io/badge/Python-Scripting-blue)
-![Linux](https://img.shields.io/badge/Linux-Security-yellow)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-blue)
-![Active_Directory](https://img.shields.io/badge/Active_Directory-Windows_Server-blue)
-![Security+](https://img.shields.io/badge/CompTIA-Security+-red)
+[LinkedIn](https://www.linkedin.com/in/femi-ijatoye) · [Email](mailto:femiijatoye@gmail.com)
