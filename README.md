@@ -39,7 +39,7 @@ Azure-hosted Windows Server 2022 environment with AD DS, DNS, and a domain-joine
 
 | Project | Focus |
 | --- | --- |
-| [Help Desk Ticketing Lab](https://github.com/femiijatoye-bit/soc-helpdesk-ticketing-lab) | osTicket in Docker: ticket assignment, response, resolution, and admin-access recovery |
+| [Help Desk Ticketing Lab](https://github.com/femiijatoye-bit/helpdesk-ticketing-osticket-lab) | osTicket in Docker: ticket assignment, response, resolution, and admin-access recovery |
 | [Wireshark Traffic Analysis](https://github.com/femiijatoye-bit/wireshark-network-traffic-analysis-lab) | Baseline traffic capture, DNS, TLS, and TCP stream inspection |
 | [Azure Honeypot Lab](https://github.com/femiijatoye-bit/azure-honeypot-lab) | Windows security-event collection and failed RDP logon investigation with Sentinel and KQL |
 | [SIEM Incident Investigation](https://github.com/femiijatoye-bit/siem-incident-investigation-lab) | Splunk investigation of simulated Windows, PowerShell, and authentication activity |
